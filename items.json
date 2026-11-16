@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-16T06:15:44+09:00",
+ "generatedAt": "2026-11-16T18:14:39+09:00",
  "retentionDays": 60,
  "sources": {
   "CU": {
@@ -16,17 +16,17 @@
   "세븐일레븐": {
    "ok": true,
    "count": 13,
-   "sec": 43.3
+   "sec": 48.1
   },
   "스타벅스": {
    "ok": true,
    "count": 35,
-   "sec": 31.4
+   "sec": 31.3
   }
  },
  "counts": {
   "cvs": {
-   "CU": 125,
+   "CU": 177,
    "GS25": 5,
    "세븐일레븐": 14,
    "이마트24": 51
@@ -86,8 +86,944 @@
    "imageUrl": "https://www.bgfretail.com/assets/upload/image/editor/202611020820461481511799.jpg",
    "imageCredit": "이미지 출처: CU 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
+   "active": true
+  },
+  {
+   "id": "cu-28812",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "고운벗)스노우생초코쏠트",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809943281000.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28812",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28811",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "고운벗)스노우생초코",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809943280522.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28811",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28810",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "득템)마시멜로크런치링",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809261533935.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28810",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28809",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "오리온)썬대파크림치즈80g",
+   "price": 1700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801117112905.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28809",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28808",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "해태)허니버터청양트러플",
+   "price": 1800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801019614149.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28808",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28807",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)듀얼섀도우피글렛",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800315.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28807",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28806",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)듀얼섀도우곰돌이푸",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800308.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28806",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28805",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)젤리틴트피글렛",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800292.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28805",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28804",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)젤리틴트곰돌이푸",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800285.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28804",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28803",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "SA)스타팝핑프레첼50g",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800372655271.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28803",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28802",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "SA)솔트카라멜프레첼50g",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800372655264.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28802",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28801",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "필립스)LED12W주광색",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8719514387362.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28801",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28800",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "케로로)타마마딸기케이크",
+   "price": 7300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809844305195.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28800",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28799",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "에이스)통귤젤리",
+   "price": 3000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809720823331.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28799",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28798",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "도)깐풍기가지탕수",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809655892839.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28798",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28797",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "멜팅치즈)콘크로크무슈",
+   "price": 4300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809411845581.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28797",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28796",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "김)김치볶음밥참치김밥",
+   "price": 3600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809196622520.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28796",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28795",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼우)로열저지우유콘",
+   "price": 3000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809194495546.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28795",
+   "tags": [
+    "아이스크림"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28794",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "그릭타임)쿠앤크그릭100g",
+   "price": 4600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8806350002266.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28794",
+   "tags": [
+    "음료"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28793",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "그릭타임)유자그릭100g",
+   "price": 4600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8806350002259.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28793",
+   "tags": [
+    "음료"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28792",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "MDS)으깨란콘참치마요",
+   "price": 3500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8805684013986.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28792",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28791",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "빅삼)튀김어묵닭갈비",
+   "price": 1900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801771038252.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28791",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28790",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "오리온)오뜨애플파이175g",
+   "price": 4000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801117001599.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28790",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28789",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "빙그레)더단백밤라떼40g",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801104954976.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28789",
+   "tags": [
+    "음료"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28788",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)포카치아불고기피자",
+   "price": 3600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068946451.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28788",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28787",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)미각메밀씨앗호떡",
+   "price": 2500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068946420.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28787",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28786",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)정통타코호빵1입",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068946390.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28786",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28785",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)김치타코호빵1입",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068946383.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28785",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28784",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)미각말차브라우니",
+   "price": 2800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068946345.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28784",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28783",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)26흑당단팥호빵3입",
+   "price": 6000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945065.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28783",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28782",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)플레인초코칩비스킷",
+   "price": 1400,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068944815.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28782",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28781",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "오뚜기)옛날매콤잡채봉지",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801045225920.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28781",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28780",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "사조)페스츄잉오징어치즈",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801039012741.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28780",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28779",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "사조)페스츄잉오징어허니",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801039012734.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28779",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28778",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "동서)오즈마시멜로컵25g",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801037100440.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28778",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28777",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "샌)타코풀드포크화덕샌드",
+   "price": 4500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753931.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28777",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28776",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "푸드)들깨누룽지수제비",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387752729.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28776",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28775",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "햄)직화홀릭데리버거",
+   "price": 3700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800361441472.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28775",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28774",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "스마일)커피빈밀크티캔디",
+   "price": 2800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800317670819.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28774",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28773",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "멜팅치즈)매콤콘치즈피타",
+   "price": 4500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800261771389.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28773",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28772",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "비이)쥴스크림바닐라114g",
+   "price": 7700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/5410471919469.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28772",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28771",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)26흑당단팥호빵",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/2202000167693.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28771",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28769",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "멕시카나)마늘간장닭강정",
+   "price": 9900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809247962520.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28769",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28768",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "멕시카나)매콤달콤닭강정",
+   "price": 9900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809247962513.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28768",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28767",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "미트)냉동옛날삼겹500g",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809152419454.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28767",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28766",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "미트)냉동대패삼겹500g",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809152419447.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28766",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28765",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "유한)욕실세정제715ml",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8806006509132.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28765",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28764",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "햄)레벨업비프돈까스반반",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801771305637.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28764",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28763",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "샌)밤크림샌드위치",
+   "price": 3400,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945638.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28763",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28762",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "김)고구마치즈돈까스김밥",
+   "price": 3600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753870.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28762",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28761",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "도)덕연이딸원이간장찜닭",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753627.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28761",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "cu-28760",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "면)새우튀김투움바파스타",
+   "price": 5300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800348945337.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28760",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-16T18:14:39+09:00",
+   "releasedAt": "2026-11-16",
+   "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
@@ -107,7 +1043,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -123,7 +1059,7 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -145,7 +1081,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -170,7 +1106,7 @@
    "imageUrl": "https://static.wixstatic.com/media/dcc5e1_22a619400dbc4d4aaa828b5ce1bb13a5~mv2.png",
    "imageCredit": "이미지 출처: KC F&B 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -195,7 +1131,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -209,7 +1145,7 @@
    "tags": [
     "할인"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -227,7 +1163,7 @@
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -253,23 +1189,23 @@
    "imageUrl": "https://cdn.popcondplay.com/ip_news/20261109085633_6af10c31ca156.jpg",
    "imageCredit": "이미지 출처: 팝콘D플레이 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
   {
-   "id": "cu-28758",
+   "id": "cu-28757",
    "category": "cvs",
    "brand": "CU",
-   "name": "득템)감자칩핫앤스파이시",
-   "price": 1800,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/6935110590261.jpg",
+   "name": "바세린)플로리스바디로션",
+   "price": 13900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556126670654.jpg",
    "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28758",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28757",
    "tags": [
-    "과자류"
+    "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -285,7 +1221,7 @@
    "tags": [
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -303,25 +1239,25 @@
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "cu-28757",
+   "id": "cu-28751",
    "category": "cvs",
    "brand": "CU",
-   "name": "바세린)플로리스바디로션",
-   "price": 13900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556126670654.jpg",
+   "name": "데일리)못난이사과1kg",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809917000460.jpg",
    "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28757",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28751",
    "tags": [
-    "생활용품"
+    "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -337,7 +1273,7 @@
    "tags": [
     "할인"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -357,371 +1293,7 @@
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28756",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "몽뜨)옥수수칩",
-   "price": 2500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809429534316.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28756",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138271",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "코카)뱅에너지체리바닐라355ml",
-   "price": 2300,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "1+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8806379940792",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "옐로우)샤워타월(1입)",
-   "price": 2300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940792.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EC%83%A4%EC%9B%8C%ED%83%80%EC%9B%94%281%EC%9E%85%29",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28755",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "롯데)ABC소프트밀크초코",
-   "price": 3400,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8802259036425.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28755",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138244",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "해태)와샤오롱180g",
-   "price": 4200,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "2+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348946020",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "QWER)콘치즈샌드위치",
-   "price": 3200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348946020.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%EC%BD%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28754",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "크라운)죠리퐁흑당밀크",
-   "price": 1700,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801111966467.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28754",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138133",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "MZ)밀카스윗하트패키지",
-   "price": 13000,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "할인"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8806379940808",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "옐로우)샤워볼(1입)",
-   "price": 2000,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940808.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EC%83%A4%EC%9B%8C%EB%B3%BC%281%EC%9E%85%29",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28753",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "빙그레)삼겹살칩",
-   "price": 1700,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801111966160.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28753",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138132",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "MZ)밀카프릴패키지",
-   "price": 10500,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "할인"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348946334",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "QWER)프레쉬에그샌드위치",
-   "price": 3400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348946334.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%ED%94%84%EB%A0%88%EC%89%AC%EC%97%90%EA%B7%B8%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28752",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "조이)쫀득피스타치마카롱",
-   "price": 3900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800361441762.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28752",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138122",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "농심)린도볼어쏘트기프트(3입)",
-   "price": 13200,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "1+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348945207",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "초판)님의침묵버터계피롤79g",
-   "price": 2500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348945207.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EB%8B%98%EC%9D%98%EC%B9%A8%EB%AC%B5%EB%B2%84%ED%84%B0%EA%B3%84%ED%94%BC%EB%A1%A479g",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28751",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "데일리)못난이사과1kg",
-   "price": 8900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809917000460.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28751",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-138119",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "농심)린도볼어쏘티드3P",
-   "price": 4400,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "1+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348947980",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "QWER)초코멜로우샌드위치",
-   "price": 4200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348947980.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%EC%B4%88%EC%BD%94%EB%A9%9C%EB%A1%9C%EC%9A%B0%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28750",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "널담)카스테라초코",
-   "price": 2000,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809795335036.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28750",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-137812",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "종가집)볶음깍두기80g",
-   "price": 2600,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "2+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348945245",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "초판)윤동주통단팥빵160g",
-   "price": 2500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348945245.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EC%9C%A4%EB%8F%99%EC%A3%BC%ED%86%B5%EB%8B%A8%ED%8C%A5%EB%B9%B5160g",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -739,181 +1311,41 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "7e-137568",
+   "id": "7e-138271",
    "category": "cvs",
    "brand": "세븐일레븐",
-   "name": "CJ)소바바황금홀릭순살치킨210g",
-   "price": 9900,
+   "name": "코카)뱅에너지체리바닐라355ml",
+   "price": 2300,
    "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
    "tags": [
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800398701181",
+   "id": "e24-8806379940792",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "하와이안콤비네이션파스타",
-   "price": 4900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701181.JPG",
+   "name": "옐로우)샤워타월(1입)",
+   "price": 2300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940792.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%95%98%EC%99%80%EC%9D%B4%EC%95%88%EC%BD%A4%EB%B9%84%EB%84%A4%EC%9D%B4%EC%85%98%ED%8C%8C%EC%8A%A4%ED%83%80",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EC%83%A4%EC%9B%8C%ED%83%80%EC%9B%94%281%EC%9E%85%29",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28746",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "롯데)빈츠치플레황치즈",
-   "price": 3500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8802259036371.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28746",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-136918",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "동원)딤섬새우하가우150g",
-   "price": 6900,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "1+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398701204",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "치즈피자밥",
-   "price": 2400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701204.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B9%98%EC%A6%88%ED%94%BC%EC%9E%90%EB%B0%A5",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28745",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "삼립)26감주통팥호빵3입",
-   "price": 6000,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945072.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28745",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "7e-125222",
-   "category": "cvs",
-   "brand": "세븐일레븐",
-   "name": "동원)개성한입쏙고기만두168g",
-   "price": 5900,
-   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
-   "tags": [
-    "1+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8809565383021",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "통다리살칠리치킨버거",
-   "price": 4200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565383021.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%86%B5%EB%8B%A4%EB%A6%AC%EC%82%B4%EC%B9%A0%EB%A6%AC%EC%B9%98%ED%82%A8%EB%B2%84%EA%B1%B0",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28744",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "삼립)315밀크티푸딩",
-   "price": 3900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068944969.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28744",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800323763222",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "올바른조림우엉김밥",
-   "price": 3300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763222.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EC%A1%B0%EB%A6%BC%EC%9A%B0%EC%97%89%EA%B9%80%EB%B0%A5",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -931,61 +1363,41 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763307",
+   "id": "7e-138244",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "해태)와샤오롱180g",
+   "price": 4200,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "2+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348946020",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "올바른단백김밥",
-   "price": 3600,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763307.JPG",
+   "name": "QWER)콘치즈샌드위치",
+   "price": 3200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348946020.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%8B%A8%EB%B0%B1%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%EC%BD%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28742",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "동서)오레오씬즈말차84g",
-   "price": 2300,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801037100532.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28742",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800323763345",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "햄쌈파불고기정찬",
-   "price": 5500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763345.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%96%84%EC%8C%88%ED%8C%8C%EB%B6%88%EA%B3%A0%EA%B8%B0%EC%A0%95%EC%B0%AC",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1003,25 +1415,41 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763406",
+   "id": "7e-138133",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "MZ)밀카스윗하트패키지",
+   "price": 13000,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "할인"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8806379940808",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "참치김치삼각김밥",
-   "price": 1300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763406.JPG",
+   "name": "옐로우)샤워볼(1입)",
+   "price": 2000,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940808.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B0%B8%EC%B9%98%EA%B9%80%EC%B9%98%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EC%83%A4%EC%9B%8C%EB%B3%BC%281%EC%9E%85%29",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1039,25 +1467,41 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809494072379",
+   "id": "7e-138132",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "MZ)밀카프릴패키지",
+   "price": 10500,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "할인"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348946334",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "초판)어린왕자우유생크림북스테라120g",
-   "price": 3700,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809494072379.JPG",
+   "name": "QWER)프레쉬에그샌드위치",
+   "price": 3400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348946334.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EC%96%B4%EB%A6%B0%EC%99%95%EC%9E%90%EC%9A%B0%EC%9C%A0%EC%83%9D%ED%81%AC%EB%A6%BC%EB%B6%81%EC%8A%A4%ED%85%8C%EB%9D%BC120g",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%ED%94%84%EB%A0%88%EC%89%AC%EC%97%90%EA%B7%B8%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
    "tags": [
-    "차별화상품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1075,25 +1519,41 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800398701129",
+   "id": "7e-138122",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "농심)린도볼어쏘트기프트(3입)",
+   "price": 13200,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "1+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348945207",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "통마늘오일파스타",
-   "price": 4300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701129.JPG",
+   "name": "초판)님의침묵버터계피롤79g",
+   "price": 2500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348945207.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%86%B5%EB%A7%88%EB%8A%98%EC%98%A4%EC%9D%BC%ED%8C%8C%EC%8A%A4%ED%83%80",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EB%8B%98%EC%9D%98%EC%B9%A8%EB%AC%B5%EB%B2%84%ED%84%B0%EA%B3%84%ED%94%BC%EB%A1%A479g",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1111,25 +1571,41 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809494072386",
+   "id": "7e-138119",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "농심)린도볼어쏘티드3P",
+   "price": 4400,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "1+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348947980",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "초판)톨스토이고구마크림북스테라120g",
-   "price": 3700,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809494072386.JPG",
+   "name": "QWER)초코멜로우샌드위치",
+   "price": 4200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348947980.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%ED%86%A8%EC%8A%A4%ED%86%A0%EC%9D%B4%EA%B3%A0%EA%B5%AC%EB%A7%88%ED%81%AC%EB%A6%BC%EB%B6%81%EC%8A%A4%ED%85%8C%EB%9D%BC120g",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=QWER%29%EC%B4%88%EC%BD%94%EB%A9%9C%EB%A1%9C%EC%9A%B0%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
    "tags": [
-    "차별화상품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1147,61 +1623,41 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809330024647",
+   "id": "7e-137812",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "종가집)볶음깍두기80g",
+   "price": 2600,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "2+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348945245",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "ALL바른)참기름햄김치덮밥",
-   "price": 6200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809330024647.JPG",
+   "name": "초판)윤동주통단팥빵160g",
+   "price": 2500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348945245.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=ALL%EB%B0%94%EB%A5%B8%29%EC%B0%B8%EA%B8%B0%EB%A6%84%ED%96%84%EA%B9%80%EC%B9%98%EB%8D%AE%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EC%9C%A4%EB%8F%99%EC%A3%BC%ED%86%B5%EB%8B%A8%ED%8C%A5%EB%B9%B5160g",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28736",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "스위트)패트매트코클릭커",
-   "price": 3900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800327930385.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28736",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8809330024654",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "ALL바른)버터장조림덮밥3",
-   "price": 5900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809330024654.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=ALL%EB%B0%94%EB%A5%B8%29%EB%B2%84%ED%84%B0%EC%9E%A5%EC%A1%B0%EB%A6%BC%EB%8D%AE%EB%B0%A53",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1219,25 +1675,41 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8801550005598",
+   "id": "7e-137568",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "CJ)소바바황금홀릭순살치킨210g",
+   "price": 9900,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "1+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398701181",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "옐로우)군고구마맛라떼원컵",
-   "price": 1800,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8801550005598.JPG",
+   "name": "하와이안콤비네이션파스타",
+   "price": 4900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701181.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EA%B5%B0%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%A7%9B%EB%9D%BC%EB%96%BC%EC%9B%90%EC%BB%B5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%95%98%EC%99%80%EC%9D%B4%EC%95%88%EC%BD%A4%EB%B9%84%EB%84%A4%EC%9D%B4%EC%85%98%ED%8C%8C%EC%8A%A4%ED%83%80",
    "tags": [
-    "차별화상품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1255,61 +1727,41 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809565383007",
+   "id": "7e-136918",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "동원)딤섬새우하가우150g",
+   "price": 6900,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "1+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398701204",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "더빅새우에그버거",
-   "price": 3800,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565383007.JPG",
+   "name": "치즈피자밥",
+   "price": 2400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701204.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%EC%83%88%EC%9A%B0%EC%97%90%EA%B7%B8%EB%B2%84%EA%B1%B0",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B9%98%EC%A6%88%ED%94%BC%EC%9E%90%EB%B0%A5",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28733",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "삼립)26감주통팥호빵",
-   "price": 2000,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/2202000167532.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28733",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8801550005604",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "옐로우)레몬진저티원컵",
-   "price": 1500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8801550005604.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%A0%88%EB%AA%AC%EC%A7%84%EC%A0%80%ED%8B%B0%EC%9B%90%EC%BB%B5",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1327,61 +1779,41 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800398700719",
+   "id": "7e-125222",
+   "category": "cvs",
+   "brand": "세븐일레븐",
+   "name": "동원)개성한입쏙고기만두168g",
+   "price": 5900,
+   "sourceUrl": "https://www.7-eleven.co.kr/product/presentList.asp",
+   "tags": [
+    "1+1"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809565383021",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "스리라차햄참치샌드버거",
-   "price": 3800,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700719.JPG",
+   "name": "통다리살칠리치킨버거",
+   "price": 4200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565383021.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%8A%A4%EB%A6%AC%EB%9D%BC%EC%B0%A8%ED%96%84%EC%B0%B8%EC%B9%98%EC%83%8C%EB%93%9C%EB%B2%84%EA%B1%B0",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%86%B5%EB%8B%A4%EB%A6%AC%EC%82%B4%EC%B9%A0%EB%A6%AC%EC%B9%98%ED%82%A8%EB%B2%84%EA%B1%B0",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28731",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "405)오리지널소금빵",
-   "price": 2500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809893310867.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28731",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8806371360628",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "성수310)꼬숩라떼300ml",
-   "price": 2900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806371360628.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%84%B1%EC%88%98310%29%EA%BC%AC%EC%88%A9%EB%9D%BC%EB%96%BC300ml",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1399,25 +1831,25 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809909951244",
+   "id": "e24-8800323763222",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "탭스)매콤치킨덮밥",
-   "price": 4500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809909951244.JPG",
+   "name": "올바른조림우엉김밥",
+   "price": 3300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763222.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%83%AD%EC%8A%A4%29%EB%A7%A4%EC%BD%A4%EC%B9%98%ED%82%A8%EB%8D%AE%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EC%A1%B0%EB%A6%BC%EC%9A%B0%EC%97%89%EA%B9%80%EB%B0%A5",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1435,25 +1867,25 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8806379940815",
+   "id": "e24-8800323763307",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "옐로우)때타월(1입)",
-   "price": 900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940815.JPG",
+   "name": "올바른단백김밥",
+   "price": 3600,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763307.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%95%8C%ED%83%80%EC%9B%94%281%EC%9E%85%29",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%8B%A8%EB%B0%B1%EA%B9%80%EB%B0%A5",
    "tags": [
-    "차별화상품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1471,25 +1903,25 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809909951251",
+   "id": "e24-8800323763345",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "탭스)유부&김밥짝꿍",
-   "price": 3000,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809909951251.JPG",
+   "name": "햄쌈파불고기정찬",
+   "price": 5500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763345.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%83%AD%EC%8A%A4%29%EC%9C%A0%EB%B6%80%26%EA%B9%80%EB%B0%A5%EC%A7%9D%EA%BF%8D",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%96%84%EC%8C%88%ED%8C%8C%EB%B6%88%EA%B3%A0%EA%B8%B0%EC%A0%95%EC%B0%AC",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1507,61 +1939,25 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8806379940891",
+   "id": "e24-8800323763406",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "옐로우)버블수세미(2입)",
-   "price": 2300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940891.JPG",
+   "name": "참치김치삼각김밥",
+   "price": 1300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763406.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%B2%84%EB%B8%94%EC%88%98%EC%84%B8%EB%AF%B8%282%EC%9E%85%29",
-   "tags": [
-    "차별화상품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28726",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "다마고치)구치파치마카롱",
-   "price": 4200,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800361441687.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28726",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800323762997",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "올바른묵은지참치담백김밥",
-   "price": 3600,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323762997.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%AC%B5%EC%9D%80%EC%A7%80%EC%B0%B8%EC%B9%98%EB%8B%B4%EB%B0%B1%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B0%B8%EC%B9%98%EA%B9%80%EC%B9%98%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1579,25 +1975,25 @@
    "tags": [
     "간편식사"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763260",
+   "id": "e24-8809494072379",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "고추장멸치반찬삼각김밥",
-   "price": 1400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763260.JPG",
+   "name": "초판)어린왕자우유생크림북스테라120g",
+   "price": 3700,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809494072379.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EA%B3%A0%EC%B6%94%EC%9E%A5%EB%A9%B8%EC%B9%98%EB%B0%98%EC%B0%AC%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%EC%96%B4%EB%A6%B0%EC%99%95%EC%9E%90%EC%9A%B0%EC%9C%A0%EC%83%9D%ED%81%AC%EB%A6%BC%EB%B6%81%EC%8A%A4%ED%85%8C%EB%9D%BC120g",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1615,205 +2011,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763284",
+   "id": "e24-8800398701129",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "단짠멸치반찬삼각김밥",
-   "price": 1400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763284.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8B%A8%EC%A7%A0%EB%A9%B8%EC%B9%98%EB%B0%98%EC%B0%AC%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28723",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "405)미나미의메론빵",
-   "price": 2500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809895791169.png",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28723",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348944699",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "재혼황후 시크릿반전에그샌드",
-   "price": 4200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348944699.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%9E%AC%ED%98%BC%ED%99%A9%ED%9B%84%20%EC%8B%9C%ED%81%AC%EB%A6%BF%EB%B0%98%EC%A0%84%EC%97%90%EA%B7%B8%EC%83%8C%EB%93%9C",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28722",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "앰지)캐드베리헤이즐넛",
-   "price": 2200,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556182104025.png",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28722",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800348944842",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "할라피뇨참치치즈샌드위치",
-   "price": 3400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348944842.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%95%A0%EB%9D%BC%ED%94%BC%EB%87%A8%EC%B0%B8%EC%B9%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28721",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "앰지)캐드베리밀크",
-   "price": 2200,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556182104001.png",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28721",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398700764",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "재혼황후 머쉬룸크림파스타",
+   "name": "통마늘오일파스타",
    "price": 4300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700764.JPG",
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398701129.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%9E%AC%ED%98%BC%ED%99%A9%ED%9B%84%20%EB%A8%B8%EC%89%AC%EB%A3%B8%ED%81%AC%EB%A6%BC%ED%8C%8C%EC%8A%A4%ED%83%80",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%86%B5%EB%A7%88%EB%8A%98%EC%98%A4%EC%9D%BC%ED%8C%8C%EC%8A%A4%ED%83%80",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28718",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "천하)휘태커스크리미밀크",
-   "price": 4900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809134280805.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28718",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398700832",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "사라다고로케샌드버거",
-   "price": 3500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700832.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%82%AC%EB%9D%BC%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80%EC%83%8C%EB%93%9C%EB%B2%84%EA%B1%B0",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28717",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "천하)휘태커스아몬드",
-   "price": 4900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809134280799.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28717",
-   "tags": [
-    "과자류"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398700870",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "버터장조림덮밥",
-   "price": 5200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700870.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B2%84%ED%84%B0%EC%9E%A5%EC%A1%B0%EB%A6%BC%EB%8D%AE%EB%B0%A5",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1831,25 +2047,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763185",
+   "id": "e24-8809494072386",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "버섯불고기&표고탕수듀오정찬",
-   "price": 5900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763185.JPG",
+   "name": "초판)톨스토이고구마크림북스테라120g",
+   "price": 3700,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809494072386.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B2%84%EC%84%AF%EB%B6%88%EA%B3%A0%EA%B8%B0%26%ED%91%9C%EA%B3%A0%ED%83%95%EC%88%98%EB%93%80%EC%98%A4%EC%A0%95%EC%B0%AC",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%B4%88%ED%8C%90%29%ED%86%A8%EC%8A%A4%ED%86%A0%EC%9D%B4%EA%B3%A0%EA%B5%AC%EB%A7%88%ED%81%AC%EB%A6%BC%EB%B6%81%EC%8A%A4%ED%85%8C%EB%9D%BC120g",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1867,25 +2083,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763208",
+   "id": "e24-8809330024647",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "올바른매콤어묵반찬김밥",
-   "price": 3300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763208.JPG",
+   "name": "ALL바른)참기름햄김치덮밥",
+   "price": 6200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809330024647.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%A7%A4%EC%BD%A4%EC%96%B4%EB%AC%B5%EB%B0%98%EC%B0%AC%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=ALL%EB%B0%94%EB%A5%B8%29%EC%B0%B8%EA%B8%B0%EB%A6%84%ED%96%84%EA%B9%80%EC%B9%98%EB%8D%AE%EB%B0%A5",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -1903,97 +2119,25 @@
    "tags": [
     "식품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800348943838",
+   "id": "e24-8809330024654",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "치폴레참치치즈샌드위치",
-   "price": 3900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348943838.JPG",
+   "name": "ALL바른)버터장조림덮밥3",
+   "price": 5900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809330024654.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B9%98%ED%8F%B4%EB%A0%88%EC%B0%B8%EC%B9%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=ALL%EB%B0%94%EB%A5%B8%29%EB%B2%84%ED%84%B0%EC%9E%A5%EC%A1%B0%EB%A6%BC%EB%8D%AE%EB%B0%A53",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28709",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "데일리)조각단감150g",
-   "price": 3500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809794202148.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28709",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398700375",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "박은영 흑후추비프버거",
-   "price": 3600,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700375.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%95%EC%9D%80%EC%98%81%20%ED%9D%91%ED%9B%84%EC%B6%94%EB%B9%84%ED%94%84%EB%B2%84%EA%B1%B0",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28707",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "도)찍먹버팔로윙감자",
-   "price": 5500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809655892792.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28707",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800398700498",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "더빅깻잎닭갈비볶음삼각김밥",
-   "price": 1800,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700498.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%EA%B9%BB%EC%9E%8E%EB%8B%AD%EA%B0%88%EB%B9%84%EB%B3%B6%EC%9D%8C%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2011,97 +2155,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809565382987",
+   "id": "e24-8801550005598",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "더빅펜타치즈버거",
-   "price": 4200,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565382987.JPG",
+   "name": "옐로우)군고구마맛라떼원컵",
+   "price": 1800,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8801550005598.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%ED%8E%9C%ED%83%80%EC%B9%98%EC%A6%88%EB%B2%84%EA%B1%B0",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EA%B5%B0%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%A7%9B%EB%9D%BC%EB%96%BC%EC%9B%90%EC%BB%B5",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28705",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "멜팅치즈)비프치즈그라탕",
-   "price": 5900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8805684013900.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28705",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8809877690886",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "후라이드순살치킨",
-   "price": 6300,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690886.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28704",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "행복)솔티구운란2입",
-   "price": 2700,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801898163943.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28704",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8809877690893",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "양념순살치킨",
-   "price": 6500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690893.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%96%91%EB%85%90%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2119,97 +2191,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8809877690909",
+   "id": "e24-8809565383007",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "마늘간장순살치킨",
-   "price": 6500,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690909.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%A7%88%EB%8A%98%EA%B0%84%EC%9E%A5%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28702",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "데일리)시금치200g",
-   "price": 2600,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801448205369.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28702",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8809877690916",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "반반순살치킨(양념&마늘간장)",
-   "price": 9900,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690916.JPG",
-   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%98%EB%B0%98%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8%28%EC%96%91%EB%85%90%26%EB%A7%88%EB%8A%98%EA%B0%84%EC%9E%A5%29",
-   "tags": [
-    "Fresh Food"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28701",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "데일리)깐쪽파200g",
+   "name": "더빅새우에그버거",
    "price": 3800,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801448203624.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28701",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "e24-8800323763093",
-   "category": "cvs",
-   "brand": "이마트24",
-   "name": "박은영 사천식오리고기삼각김밥",
-   "price": 1400,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763093.JPG",
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565383007.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%95%EC%9D%80%EC%98%81%20%EC%82%AC%EC%B2%9C%EC%8B%9D%EC%98%A4%EB%A6%AC%EA%B3%A0%EA%B8%B0%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%EC%83%88%EC%9A%B0%EC%97%90%EA%B7%B8%EB%B2%84%EA%B1%B0",
    "tags": [
     "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2227,43 +2227,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "e24-8800323763116",
+   "id": "e24-8801550005604",
    "category": "cvs",
    "brand": "이마트24",
-   "name": "고추장제육비빔밥",
-   "price": 4600,
-   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763116.JPG",
+   "name": "옐로우)레몬진저티원컵",
+   "price": 1500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8801550005604.JPG",
    "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
-   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EA%B3%A0%EC%B6%94%EC%9E%A5%EC%A0%9C%EC%9C%A1%EB%B9%84%EB%B9%94%EB%B0%A5",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%A0%88%EB%AA%AC%EC%A7%84%EC%A0%80%ED%8B%B0%EC%9B%90%EC%BB%B5",
    "tags": [
-    "Fresh Food"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28699",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "겟모닝)브리오슈베이컨",
-   "price": 3300,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945935.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28699",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2281,151 +2263,25 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "cu-28695",
+   "id": "e24-8800398700719",
    "category": "cvs",
-   "brand": "CU",
-   "name": "CJ)비비고총각김치1.5kg",
-   "price": 25500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801007552750.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28695",
+   "brand": "이마트24",
+   "name": "스리라차햄참치샌드버거",
+   "price": 3800,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700719.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%8A%A4%EB%A6%AC%EB%9D%BC%EC%B0%A8%ED%96%84%EC%B0%B8%EC%B9%98%EC%83%8C%EB%93%9C%EB%B2%84%EA%B1%B0",
    "tags": [
-    "식품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28694",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "CJ)비비고열무김치1.5kg",
-   "price": 24500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801007552736.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28694",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28693",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "샌)살라미모짜화덕샌드",
-   "price": 4500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753061.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28693",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28692",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "푸드)간짬뽕볶음면",
-   "price": 5500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387752156.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28692",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28691",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "푸드)겨울포차우동",
-   "price": 5500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387752149.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28691",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28689",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "김)콘참치에그반반유부",
-   "price": 4300,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800271907532.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28689",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28684",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "샌)히팅올리브쏙케이준",
-   "price": 4500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809895791213.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28684",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28683",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "면)치즈오븐스파게티",
-   "price": 3900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809655892754.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28683",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2443,133 +2299,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "cu-28681",
+   "id": "e24-8806371360628",
    "category": "cvs",
-   "brand": "CU",
-   "name": "도드람)한돈냉동삼겹300g",
-   "price": 12300,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8803694141705.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28681",
+   "brand": "이마트24",
+   "name": "성수310)꼬숩라떼300ml",
+   "price": 2900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806371360628.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%84%B1%EC%88%98310%29%EA%BC%AC%EC%88%A9%EB%9D%BC%EB%96%BC300ml",
    "tags": [
-    "식품"
+    "차별화상품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28680",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "주)딥치즈양념치킨밥바",
-   "price": 2300,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801771038207.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28680",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28679",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "햄)더블업불고기치즈버거",
-   "price": 3200,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945140.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28679",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28678",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "햄)멜팅불고기머쉬룸버거",
-   "price": 3900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753306.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28678",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28677",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "아워홈)BHC뿌링클파스타",
-   "price": 7900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800336697828.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28677",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28676",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "아워홈)BHC맛초킹그릴치밥",
-   "price": 7900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800336693912.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28676",
-   "tags": [
-    "식품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28675",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "샐)치킨텐더&감자무스샐",
-   "price": 4700,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800247191422.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28675",
-   "tags": [
-    "간편식사"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2587,7 +2335,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809909951244",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "탭스)매콤치킨덮밥",
+   "price": 4500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809909951244.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%83%AD%EC%8A%A4%29%EB%A7%A4%EC%BD%A4%EC%B9%98%ED%82%A8%EB%8D%AE%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2605,7 +2371,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8806379940815",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "옐로우)때타월(1입)",
+   "price": 900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940815.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%95%8C%ED%83%80%EC%9B%94%281%EC%9E%85%29",
+   "tags": [
+    "차별화상품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2623,7 +2407,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809909951251",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "탭스)유부&김밥짝꿍",
+   "price": 3000,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809909951251.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%83%AD%EC%8A%A4%29%EC%9C%A0%EB%B6%80%26%EA%B9%80%EB%B0%A5%EC%A7%9D%EA%BF%8D",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2641,7 +2443,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8806379940891",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "옐로우)버블수세미(2입)",
+   "price": 2300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8806379940891.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/pl?search=%EC%98%90%EB%A1%9C%EC%9A%B0%29%EB%B2%84%EB%B8%94%EC%88%98%EC%84%B8%EB%AF%B8%282%EC%9E%85%29",
+   "tags": [
+    "차별화상품"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2660,7 +2480,25 @@
     "아이스크림",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323762997",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "올바른묵은지참치담백김밥",
+   "price": 3600,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323762997.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%AC%B5%EC%9D%80%EC%A7%80%EC%B0%B8%EC%B9%98%EB%8B%B4%EB%B0%B1%EA%B9%80%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2679,7 +2517,25 @@
     "아이스크림",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763260",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "고추장멸치반찬삼각김밥",
+   "price": 1400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763260.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EA%B3%A0%EC%B6%94%EC%9E%A5%EB%A9%B8%EC%B9%98%EB%B0%98%EC%B0%AC%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2697,7 +2553,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763284",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "단짠멸치반찬삼각김밥",
+   "price": 1400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763284.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8B%A8%EC%A7%A0%EB%A9%B8%EC%B9%98%EB%B0%98%EC%B0%AC%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2716,7 +2590,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348944699",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "재혼황후 시크릿반전에그샌드",
+   "price": 4200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348944699.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%9E%AC%ED%98%BC%ED%99%A9%ED%9B%84%20%EC%8B%9C%ED%81%AC%EB%A6%BF%EB%B0%98%EC%A0%84%EC%97%90%EA%B7%B8%EC%83%8C%EB%93%9C",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2734,7 +2626,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348944842",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "할라피뇨참치치즈샌드위치",
+   "price": 3400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348944842.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%95%A0%EB%9D%BC%ED%94%BC%EB%87%A8%EC%B0%B8%EC%B9%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2753,7 +2663,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398700764",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "재혼황후 머쉬룸크림파스타",
+   "price": 4300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700764.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%9E%AC%ED%98%BC%ED%99%A9%ED%9B%84%20%EB%A8%B8%EC%89%AC%EB%A3%B8%ED%81%AC%EB%A6%BC%ED%8C%8C%EC%8A%A4%ED%83%80",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2772,7 +2700,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398700832",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "사라다고로케샌드버거",
+   "price": 3500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700832.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%82%AC%EB%9D%BC%EB%8B%A4%EA%B3%A0%EB%A1%9C%EC%BC%80%EC%83%8C%EB%93%9C%EB%B2%84%EA%B1%B0",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2791,7 +2737,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398700870",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "버터장조림덮밥",
+   "price": 5200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700870.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B2%84%ED%84%B0%EC%9E%A5%EC%A1%B0%EB%A6%BC%EB%8D%AE%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2809,7 +2773,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763185",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "버섯불고기&표고탕수듀오정찬",
+   "price": 5900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763185.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B2%84%EC%84%AF%EB%B6%88%EA%B3%A0%EA%B8%B0%26%ED%91%9C%EA%B3%A0%ED%83%95%EC%88%98%EB%93%80%EC%98%A4%EC%A0%95%EC%B0%AC",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2827,7 +2809,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763208",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "올바른매콤어묵반찬김밥",
+   "price": 3300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763208.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%98%AC%EB%B0%94%EB%A5%B8%EB%A7%A4%EC%BD%A4%EC%96%B4%EB%AC%B5%EB%B0%98%EC%B0%AC%EA%B9%80%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2845,7 +2845,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800348943838",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "치폴레참치치즈샌드위치",
+   "price": 3900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800348943838.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%B9%98%ED%8F%B4%EB%A0%88%EC%B0%B8%EC%B9%98%EC%B9%98%EC%A6%88%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2863,7 +2881,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800398700375",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "박은영 흑후추비프버거",
+   "price": 3600,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700375.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%95%EC%9D%80%EC%98%81%20%ED%9D%91%ED%9B%84%EC%B6%94%EB%B9%84%ED%94%84%EB%B2%84%EA%B1%B0",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2881,97 +2917,25 @@
    "tags": [
     "생활용품"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "cu-28591",
+   "id": "e24-8800398700498",
    "category": "cvs",
-   "brand": "CU",
-   "name": "비비안)26여성모달팬티100",
-   "price": 9900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8808994349394.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28591",
+   "brand": "이마트24",
+   "name": "더빅깻잎닭갈비볶음삼각김밥",
+   "price": 1800,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800398700498.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%EA%B9%BB%EC%9E%8E%EB%8B%AD%EA%B0%88%EB%B9%84%EB%B3%B6%EC%9D%8C%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
    "tags": [
-    "생활용품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28587",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "딘토)멜팅컬러립피글렛",
-   "price": 6900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800261.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28587",
-   "tags": [
-    "생활용품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28586",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "딘토)멜팅컬러립곰돌이푸",
-   "price": 6900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800254.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28586",
-   "tags": [
-    "생활용품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28585",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "스타일)귀마개검정",
-   "price": 4000,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800335011236.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28585",
-   "tags": [
-    "생활용품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28584",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "스타일)터치장갑검정",
-   "price": 8900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800335011229.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28584",
-   "tags": [
-    "생활용품"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -2990,7 +2954,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809565382987",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "더빅펜타치즈버거",
+   "price": 4200,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809565382987.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%8D%94%EB%B9%85%ED%8E%9C%ED%83%80%EC%B9%98%EC%A6%88%EB%B2%84%EA%B1%B0",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3009,7 +2991,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809877690886",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "후라이드순살치킨",
+   "price": 6300,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690886.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3028,25 +3028,25 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
   },
   {
-   "id": "cu-28519",
+   "id": "e24-8809877690893",
    "category": "cvs",
-   "brand": "CU",
-   "name": "AHC)딥모이마스크1매",
-   "price": 1500,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809759082914.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28519",
+   "brand": "이마트24",
+   "name": "양념순살치킨",
+   "price": 6500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690893.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EC%96%91%EB%85%90%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
    "tags": [
-    "생활용품"
+    "Fresh Food"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3064,7 +3064,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809877690909",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "마늘간장순살치킨",
+   "price": 6500,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690909.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%A7%88%EB%8A%98%EA%B0%84%EC%9E%A5%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3082,7 +3100,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8809877690916",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "반반순살치킨(양념&마늘간장)",
+   "price": 9900,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8809877690916.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%98%EB%B0%98%EC%88%9C%EC%82%B4%EC%B9%98%ED%82%A8%28%EC%96%91%EB%85%90%26%EB%A7%88%EB%8A%98%EA%B0%84%EC%9E%A5%29",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3100,7 +3136,25 @@
    "tags": [
     "음료"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763093",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "박은영 사천식오리고기삼각김밥",
+   "price": 1400,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763093.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EB%B0%95%EC%9D%80%EC%98%81%20%EC%82%AC%EC%B2%9C%EC%8B%9D%EC%98%A4%EB%A6%AC%EA%B3%A0%EA%B8%B0%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3118,7 +3172,25 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": true
+  },
+  {
+   "id": "e24-8800323763116",
+   "category": "cvs",
+   "brand": "이마트24",
+   "name": "고추장제육비빔밥",
+   "price": 4600,
+   "imageUrl": "https://msave.emart24.co.kr/cmsbo/upload/nHq/plu_image/500x500/8800323763116.JPG",
+   "imageCredit": "이미지 출처: 이마트24 공식 홈페이지",
+   "sourceUrl": "https://emart24.co.kr/goods/ff?search=%EA%B3%A0%EC%B6%94%EC%9E%A5%EC%A0%9C%EC%9C%A1%EB%B9%84%EB%B9%94%EB%B0%A5",
+   "tags": [
+    "Fresh Food"
+   ],
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3136,7 +3208,7 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3155,7 +3227,7 @@
     "음료",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3174,7 +3246,7 @@
     "음료",
     "1+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3193,7 +3265,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3212,7 +3284,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3230,7 +3302,7 @@
    "tags": [
     "즉석조리"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3248,7 +3320,7 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3267,7 +3339,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3286,7 +3358,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3305,7 +3377,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3324,7 +3396,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3343,7 +3415,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3361,64 +3433,7 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28340",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "웰케어)맥플랜흑임자P350",
-   "price": 3800,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191428.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28340",
-   "tags": [
-    "음료",
-    "2+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28339",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "웰케어)맥플랜아몬드P350",
-   "price": 3800,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191381.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28339",
-   "tags": [
-    "음료",
-    "2+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28338",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "웰케어)맥플랜초코P350",
-   "price": 3800,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191343.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28338",
-   "tags": [
-    "음료",
-    "2+1"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3437,7 +3452,7 @@
     "즉석조리",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3456,7 +3471,7 @@
     "즉석조리",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3475,7 +3490,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3494,7 +3509,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3512,7 +3527,7 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3530,7 +3545,7 @@
    "tags": [
     "아이스크림"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3549,25 +3564,7 @@
     "아이스크림",
     "2+1"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
-   "firstSeenAt": "2026-11-12T12:03:24+09:00",
-   "releasedAt": "2026-11-12",
-   "releasedAtIsFirstSeen": true,
-   "active": true
-  },
-  {
-   "id": "cu-28203",
-   "category": "cvs",
-   "brand": "CU",
-   "name": "피치)흰둥이소르베",
-   "price": 4900,
-   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809971933179.jpg",
-   "imageCredit": "이미지 출처: CU 공식 홈페이지",
-   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28203",
-   "tags": [
-    "아이스크림"
-   ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
@@ -3585,11 +3582,950 @@
    "tags": [
     "즉석조리"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "releasedAt": "2026-11-12",
    "releasedAtIsFirstSeen": true,
    "active": true
+  },
+  {
+   "id": "cu-28758",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "득템)감자칩핫앤스파이시",
+   "price": 1800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/6935110590261.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28758",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28756",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "몽뜨)옥수수칩",
+   "price": 2500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809429534316.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28756",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28755",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "롯데)ABC소프트밀크초코",
+   "price": 3400,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8802259036425.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28755",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28754",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "크라운)죠리퐁흑당밀크",
+   "price": 1700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801111966467.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28754",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28753",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "빙그레)삼겹살칩",
+   "price": 1700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801111966160.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28753",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28752",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "조이)쫀득피스타치마카롱",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800361441762.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28752",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28750",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "널담)카스테라초코",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809795335036.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28750",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28746",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "롯데)빈츠치플레황치즈",
+   "price": 3500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8802259036371.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28746",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28745",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)26감주통팥호빵3입",
+   "price": 6000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945072.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28745",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28744",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)315밀크티푸딩",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068944969.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28744",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28742",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "동서)오레오씬즈말차84g",
+   "price": 2300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801037100532.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28742",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28736",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "스위트)패트매트코클릭커",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800327930385.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28736",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28733",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "삼립)26감주통팥호빵",
+   "price": 2000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/2202000167532.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28733",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28731",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "405)오리지널소금빵",
+   "price": 2500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809893310867.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28731",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28726",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "다마고치)구치파치마카롱",
+   "price": 4200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800361441687.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28726",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28723",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "405)미나미의메론빵",
+   "price": 2500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809895791169.png",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28723",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28722",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "앰지)캐드베리헤이즐넛",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556182104025.png",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28722",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28721",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "앰지)캐드베리밀크",
+   "price": 2200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/9556182104001.png",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28721",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28718",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "천하)휘태커스크리미밀크",
+   "price": 4900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809134280805.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28718",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28717",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "천하)휘태커스아몬드",
+   "price": 4900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809134280799.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28717",
+   "tags": [
+    "과자류"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28709",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "데일리)조각단감150g",
+   "price": 3500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809794202148.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28709",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28707",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "도)찍먹버팔로윙감자",
+   "price": 5500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809655892792.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28707",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28705",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "멜팅치즈)비프치즈그라탕",
+   "price": 5900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8805684013900.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28705",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28704",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "행복)솔티구운란2입",
+   "price": 2700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801898163943.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28704",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28702",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "데일리)시금치200g",
+   "price": 2600,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801448205369.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28702",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28701",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "데일리)깐쪽파200g",
+   "price": 3800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801448203624.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28701",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28699",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "겟모닝)브리오슈베이컨",
+   "price": 3300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945935.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28699",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28695",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "CJ)비비고총각김치1.5kg",
+   "price": 25500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801007552750.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28695",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28694",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "CJ)비비고열무김치1.5kg",
+   "price": 24500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801007552736.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28694",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28693",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "샌)살라미모짜화덕샌드",
+   "price": 4500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753061.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28693",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28692",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "푸드)간짬뽕볶음면",
+   "price": 5500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387752156.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28692",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28691",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "푸드)겨울포차우동",
+   "price": 5500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387752149.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28691",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28689",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "김)콘참치에그반반유부",
+   "price": 4300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800271907532.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28689",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28684",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "샌)히팅올리브쏙케이준",
+   "price": 4500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809895791213.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28684",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28683",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "면)치즈오븐스파게티",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809655892754.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28683",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28681",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "도드람)한돈냉동삼겹300g",
+   "price": 12300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8803694141705.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28681",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28680",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "주)딥치즈양념치킨밥바",
+   "price": 2300,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801771038207.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28680",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28679",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "햄)더블업불고기치즈버거",
+   "price": 3200,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801068945140.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28679",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28678",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "햄)멜팅불고기머쉬룸버거",
+   "price": 3900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800387753306.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28678",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28677",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "아워홈)BHC뿌링클파스타",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800336697828.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28677",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28676",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "아워홈)BHC맛초킹그릴치밥",
+   "price": 7900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800336693912.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28676",
+   "tags": [
+    "식품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28675",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "샐)치킨텐더&감자무스샐",
+   "price": 4700,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800247191422.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28675",
+   "tags": [
+    "간편식사"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28591",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "비비안)26여성모달팬티100",
+   "price": 9900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8808994349394.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28591",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28587",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)멜팅컬러립피글렛",
+   "price": 6900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800261.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28587",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28586",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "딘토)멜팅컬러립곰돌이푸",
+   "price": 6900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800393800254.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28586",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28585",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "스타일)귀마개검정",
+   "price": 4000,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800335011236.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28585",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28584",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "스타일)터치장갑검정",
+   "price": 8900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8800335011229.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28584",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28519",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "AHC)딥모이마스크1매",
+   "price": 1500,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809759082914.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28519",
+   "tags": [
+    "생활용품"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28340",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "웰케어)맥플랜흑임자P350",
+   "price": 3800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191428.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28340",
+   "tags": [
+    "음료",
+    "2+1"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28339",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "웰케어)맥플랜아몬드P350",
+   "price": 3800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191381.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28339",
+   "tags": [
+    "음료",
+    "2+1"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28338",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "웰케어)맥플랜초코P350",
+   "price": 3800,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8801392191343.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28338",
+   "tags": [
+    "음료",
+    "2+1"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
+  },
+  {
+   "id": "cu-28203",
+   "category": "cvs",
+   "brand": "CU",
+   "name": "피치)흰둥이소르베",
+   "price": 4900,
+   "imageUrl": "https://tqklhszfkvzk6518638.edge.naverncp.com/product/8809971933179.jpg",
+   "imageCredit": "이미지 출처: CU 공식 홈페이지",
+   "sourceUrl": "https://cu.bgfretail.com/product/view.do?category=product&gdIdx=28203",
+   "tags": [
+    "아이스크림"
+   ],
+   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "firstSeenAt": "2026-11-12T12:03:24+09:00",
+   "releasedAt": "2026-11-12",
+   "releasedAtIsFirstSeen": true,
+   "active": false
   },
   {
    "id": "m-gs25-navy-gym",
@@ -3607,7 +4543,7 @@
    "sourceUrl": "https://www.etnews.com/20261110000071",
    "summaryByAI": true,
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3632,7 +4568,7 @@
    "imageUrl": "https://www.tlj.co.kr/data/product/2026-11-10_event(1).jpg",
    "imageCredit": "이미지 출처: 뚜레쥬르 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3658,7 +4594,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3683,7 +4619,7 @@
    "imageUrl": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2026/11/%EB%B2%A0%EB%A6%AC%EB%B0%A4-%EB%94%A5%EC%B4%88%EC%BD%94-%EC%A0%9C%ED%92%88.png",
    "imageCredit": "이미지 출처: 파리바게뜨 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3704,7 +4640,7 @@
    "imageUrl": "https://www.puradakchicken.com/upload/menu/%5B400_X_400%5D_%ED%99%8D%EA%B3%A0%EC%B6%94%EB%A7%88%EC%9A%94_%EC%BF%BC%ED%84%B0%EB%A0%88%EA%B7%B8.png",
    "imageCredit": "이미지 출처: 푸라닭 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3728,7 +4664,7 @@
    "imageUrl": "https://www.kfckorea.com/nas/event/2026/11/04/SRTzLnqmgoHg.jpg",
    "imageCredit": "이미지 출처: KFC 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3751,7 +4687,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3772,7 +4708,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3797,7 +4733,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3817,7 +4753,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3839,7 +4775,7 @@
    "sourceUrl": "https://www.mt.co.kr/living/2026/11/10/2026111013393536758",
    "summaryByAI": true,
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3863,7 +4799,7 @@
    "sourceUrl": "https://tnnews.co.kr/archives/298831",
    "summaryByAI": true,
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3888,7 +4824,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3915,7 +4851,7 @@
    "imageUrl": "https://image.msscdn.net/thumbnails/ocmp/contents/content/file_1793689897800_cc173df27ff4.jpg",
    "imageCredit": "이미지 출처: 무신사 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -3937,7 +4873,7 @@
    "imageUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/hc3/h69/9164143296542.jpg",
    "imageCredit": "이미지 출처: GS25 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3963,7 +4899,7 @@
    "imageUrl": "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Library-Sites-LongchampSharedLibrary_revamp/default/dwd5be8966/Articles/my-pliage-pop-up-2026/640x920-Nav-Actualite.jpg",
    "imageCredit": "이미지 출처: 롱샴 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -3986,7 +4922,7 @@
    "imageUrl": "https://paikdabang.com/wp-content/uploads/2026/11/%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98-%EB%94%A5%ED%81%AC%EB%A6%BC%EB%9D%BC%EB%96%BC-HOT-450x588.png",
    "imageCredit": "이미지 출처: 빽다방 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4005,7 +4941,7 @@
    "sourceUrl": "https://www.fnnews.com/news/202611051444018044",
    "summaryByAI": true,
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4028,7 +4964,7 @@
    "imageUrl": "https://hpsimg.gsretail.com/medias/sys_master/images/images/h09/he7/9162313367582.jpg",
    "imageCredit": "이미지 출처: GS25 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4051,7 +4987,7 @@
    "imageUrl": "https://mob-prd.burgerking.co.kr/images/menu/web/main/2026/10/29/b0cfe423-69ab-4463-8e19-b85d7b27ed5f.png",
    "imageCredit": "이미지 출처: 버거킹 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4076,7 +5012,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4101,7 +5037,7 @@
    "imageUrl": "https://image.msscdn.net/thumbnails/ocmp/contents/content/file_1793264170941_ab3cbce29237.jpg",
    "imageCredit": "이미지 출처: 무신사 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4124,7 +5060,7 @@
    "imageUrl": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2026/10/%EB%A1%B1%EB%A1%B1%EC%B4%88%EC%BD%94%EC%AB%80%EB%93%9D%EC%B8%84%EB%9F%AC%EC%8A%A41.png",
    "imageCredit": "이미지 출처: 파리바게뜨 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4146,7 +5082,7 @@
    "imageUrl": "https://img.mega-mgccoffee.com/megahp/manager/upload/menu/20261021185621_1792576581002_NyaJL6AVnt.png",
    "imageCredit": "이미지 출처: 메가MGC커피 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4167,7 +5103,7 @@
    "imageUrl": "https://home-img.bhc.co.kr/bhc/product/20261021_132850_b9890d9b.png",
    "imageCredit": "이미지 출처: bhc 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4188,7 +5124,7 @@
    "imageUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
    "imageCredit": "이미지 출처: 교촌치킨 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4211,7 +5147,7 @@
    "imageUrl": "https://www.mcdonalds.co.kr/upload/2026/10/Corp_PC_VIEW_772x530_%EB%B9%85%EC%95%84%EC%B9%98_EVM.png",
    "imageCredit": "이미지 출처: 맥도날드 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4235,7 +5171,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4257,7 +5193,7 @@
    "imageUrl": "https://composecoffee.com/files/attach/images/272857/164/344/fcfc469ce1ba6e7450ab3e7dae4d2e3e.jpg",
    "imageCredit": "이미지 출처: 컴포즈커피 공식 홈페이지",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4282,7 +5218,7 @@
    "sourceUrl": "https://www.khgames.co.kr/news/articleView.html?idxno=309400",
    "summaryByAI": true,
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4302,7 +5238,7 @@
    "summaryByAI": true,
    "fromDigest": "pickle-2026-11-12",
    "manual": true,
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T18:04:11+09:00",
    "active": true
   },
@@ -4318,7 +5254,7 @@
    "tags": [
     "요거트"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4335,7 +5271,7 @@
     "초콜릿",
     "247kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4352,7 +5288,7 @@
     "초콜릿",
     "1240kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4369,7 +5305,7 @@
     "쿠키",
     "474kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4386,7 +5322,7 @@
     "쿠키",
     "1440kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4403,7 +5339,7 @@
     "마카롱",
     "730kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4420,7 +5356,7 @@
     "쿠키",
     "194kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4437,7 +5373,7 @@
     "아이스 티",
     "145kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4454,7 +5390,7 @@
     "티 라떼",
     "310kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4471,7 +5407,7 @@
     "티 라떼",
     "235kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4488,7 +5424,7 @@
     "베이글",
     "293kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4505,7 +5441,7 @@
     "조각케이크",
     "495kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4522,7 +5458,7 @@
     "샌드위치",
     "425kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4539,7 +5475,7 @@
     "마카롱",
     "180kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4556,7 +5492,7 @@
     "홀케이크",
     "339kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4573,7 +5509,7 @@
     "홀케이크",
     "337kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4590,7 +5526,7 @@
     "기타",
     "300kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4607,7 +5543,7 @@
     "기타",
     "425kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4624,7 +5560,7 @@
     "조각케이크",
     "614kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4641,7 +5577,7 @@
     "미니홀케이크",
     "810kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4658,7 +5594,7 @@
     "미니홀케이크",
     "1400kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4675,7 +5611,7 @@
     "스타벅스 피지오",
     "75kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4692,7 +5628,7 @@
     "스타벅스 피지오",
     "85kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4709,7 +5645,7 @@
     "브루드 티",
     "9kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4726,7 +5662,7 @@
     "브루드 티",
     "7kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4743,7 +5679,7 @@
     "브루드 티",
     "11kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4760,7 +5696,7 @@
     "브루드 티",
     "8kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4777,7 +5713,7 @@
     "티 라떼",
     "215kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4794,7 +5730,7 @@
     "티 라떼",
     "295kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4811,7 +5747,7 @@
     "라떼",
     "345kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4828,7 +5764,7 @@
     "라떼",
     "290kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4845,7 +5781,7 @@
     "조각케이크",
     "526kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4862,7 +5798,7 @@
     "조각케이크",
     "631kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4879,7 +5815,7 @@
     "샌드위치",
     "375kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   },
@@ -4896,7 +5832,7 @@
     "마카롱",
     "178kcal"
    ],
-   "fetchedAt": "2026-11-16T06:15:44+09:00",
+   "fetchedAt": "2026-11-16T18:14:39+09:00",
    "firstSeenAt": "2026-11-12T12:03:24+09:00",
    "active": true
   }
